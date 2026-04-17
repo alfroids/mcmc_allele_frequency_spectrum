@@ -1,12 +1,12 @@
 # MCMC AFS
 
-This script allows you to use an MCMC algorithm to estimate Alle Frequency Spectra measurements, such as the expected homozygosity for a given sample size and number of alleleic classes and the Slatkin's (1994) exact neutrality test.
+This script allows you to use an MCMC algorithm to estimate Allele Frequency Spectra measurements, such as the expected homozygosity for a given sample size and number of alleleic classes and the Slatkin's (1994) exact neutrality test.
 
 ## Key features
 
-- Generate a sequence of Alle Frequency Spectra using an MCMC algorithm.
-- Compute the expected homozygosity using brute force or estimate ir using an MCMC algorithm.
-- Compute the exact neutrality test using brute force or estimate ir using an MCMC algorithm.
+- Generate a sequence of Allele Frequency Spectra using an MCMC algorithm.
+- Compute the expected homozygosity using brute force or estimate it using an MCMC algorithm.
+- Compute the exact neutrality test using brute force or estimate it using an MCMC algorithm.
 
 ## Requirements
 
