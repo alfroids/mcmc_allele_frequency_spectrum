@@ -31,6 +31,7 @@ from mcmc_afs import compute_exact_neutrality_test
 ## What I want to add...
 
 1. a `MCMCAFS` class, so that the user can run the MCMC algorithm only once and compute any measurement in a more straightforward way.
-2. a seed setter, for reproducibility.
-3. a way for the user to save the `MCMCAFS` object.
-4. parallelization.
+2. more options of measurements.
+3. a seed setter, for reproducibility.
+4. a way for the user to save the `MCMCAFS` object.
+5. parallelization.
